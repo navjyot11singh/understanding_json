@@ -1,0 +1,23 @@
+{
+  "course_count": 3,
+  "email": "navjyot.in",
+  "course": {
+    "description": "Bootcamp",
+    "name": "Java"
+  },
+  "video": [
+    {
+      "duration": 5,
+      "name": "intro"
+    },
+    {
+      "duration": 8,
+      "name": "Exerxise Files"
+    },
+    {
+      "duration": 12,
+      "name": "Instalation"
+    }
+  ],
+  "name": "Navjyot"
+}
